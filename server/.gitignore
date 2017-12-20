@@ -3,7 +3,7 @@
 *-lock.json
 
 node_modules
-keys.js
+dev.js
 
 .idea/
 .vscode/
